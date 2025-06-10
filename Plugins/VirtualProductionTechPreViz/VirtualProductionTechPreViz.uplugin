@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "VirtualProductionTechPreViz",
+	"Description": "PreViz tools for CoSTAR Realtime Lab VP",
+	"Category": "Virtual Production",
+	"CreatedBy": "Morgan Skillicorn, Joseph Bardolph",
+	"CreatedByURL": "https://morganskilly.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "nDisplayMeshTool",
+			"Enabled": true
+		}
+	]
+}
