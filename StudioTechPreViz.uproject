@@ -3,6 +3,13 @@
 	"EngineAssociation": "{B4A2A6F2-454E-642D-A55C-6EBCCD5181B6}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "StudioTechPreViz",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "OpenXR",
